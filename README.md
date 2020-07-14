@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-banco/blob/master/images/cash.png">
+<img src="https://github.com/MatheusFranciscone/projeto-agenda/blob/master/ProjetoAgendaContatos/imgs/agenda.png">
 </p>
 
 # Projeto Agenda de contatos
